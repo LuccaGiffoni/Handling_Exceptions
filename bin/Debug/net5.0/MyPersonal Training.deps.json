@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MyPersonal Training/1.0.0": {
+        "runtime": {
+          "MyPersonal Training.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyPersonal Training/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
