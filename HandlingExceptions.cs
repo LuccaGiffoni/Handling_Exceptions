@@ -12,7 +12,7 @@ namespace Exceptions
             // All the program embeded in a do while loop for restart if needed
             do
             {
-                // Start the program
+                // Actually starting the program
                 try
                 {
                     Console.WriteLine("Choose a short number (-32,768 to 32,767): ");
